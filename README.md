@@ -1,4 +1,6 @@
-# CryptoNet - Explore the World of Cryptocurrency. View the stats,graph,information about multiple cryptocurrencies. 
+# CryptoNet - Explore the World of Cryptocurrency. 
+
+View the stats,graph,information about multiple cryptocurrencies. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
